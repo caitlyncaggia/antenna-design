@@ -1,0 +1,8 @@
+CM EXAMPLE #1
+CE CENTER FEED HALF-WAVE DIPOLE
+GW 1 7 0. 0. -0.25 0. 0. 0.25 0.001
+GE
+EX 0  1  4  0  1.0  0.0  
+FR 0  1  0  0  299.8
+RP 0  91  91  1000  0.  0.  2.  4.
+EN

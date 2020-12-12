@@ -1,0 +1,9 @@
+CM ECE 6370 - Homework 5.A
+CM Caitlyn Caggia
+CE CENTER FED HALF-WAVE DIPOLE
+GW 1 31 0. 0. -0.15 0. 0. 0.15 0.0001
+GE
+EX 0  1  16  0  1.0  0.0  
+FR 0  200  0  0  10. 10.
+RP 0  1  0  1000  90.  0.  0.  0.
+EN
